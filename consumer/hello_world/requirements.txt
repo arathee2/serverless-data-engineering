@@ -1,5 +1,0 @@
-requests
-pandas
-wikipedia
-boto3
-python-json-logger
